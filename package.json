@@ -1,0 +1,12 @@
+{
+    "name": "custom-health-checks",
+    "type": "module",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+      "express": "~4.16.1",
+      "http-errors": "~1.6.3",
+      "redis": "^4.1.0"
+    }
+  }
+  
